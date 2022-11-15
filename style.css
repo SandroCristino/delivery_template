@@ -10939,6 +10939,9 @@ textarea.form-control-lg {
   #navbar_icons {
     display: none !important;
   }
+  #first_content {
+    background-image: url(./img/food_mobile.jpg) !important;
+  }
 }
 #first_content {
   background-image: url(./img/food.jpg);
@@ -10962,4 +10965,9 @@ textarea.form-control-lg {
 #second_content_items div {
   width: 300px;
   height: 200px;
+}
+
+#link_items svg {
+  margin-left: 5px;
+  margin-right: 5px;
 }/*# sourceMappingURL=style.css.map */
