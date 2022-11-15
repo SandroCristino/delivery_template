@@ -10942,11 +10942,24 @@ textarea.form-control-lg {
 }
 #first_content {
   background-image: url(./img/food.jpg);
+  background-repeat: no-repeat;
   background-size: 100%;
   width: 100vw;
-  height: 100vh;
+  height: 80vh;
 }
 
 #first_content_items {
   min-height: 100% !important;
+}
+
+#second_content {
+  background-color: #e9ecef;
+  background-size: 100%;
+  width: 100vw;
+  height: 50%;
+}
+
+#second_content_items div {
+  width: 300px;
+  height: 200px;
 }/*# sourceMappingURL=style.css.map */
